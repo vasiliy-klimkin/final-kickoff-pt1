@@ -5,3 +5,4 @@
 - ON master, `git pull origin master`
 - make a branch `git checkout -b BRANCH_NAME`
 - WORK WORK WORK WORK WORK -
+- remember to commit often on your branch!! very important!
